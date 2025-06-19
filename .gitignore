@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Environment variables ###
+.env.dev
+.env.prod
+
+### Project Secrets ###
+/src/main/resources/Secrets/*
